@@ -71,11 +71,12 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Avinash%20Chavan-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://linkedin.com/in/avinashchavan" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
+  
   <a href="mailto:avinashchavan1616@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -88,4 +89,5 @@
 ---
 
 ⭐ **Thanks for visiting my profile!**
+
 
