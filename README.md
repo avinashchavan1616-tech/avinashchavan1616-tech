@@ -1,74 +1,61 @@
-
-<!-- 🔥 Small Background Banner -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff" />
-</p>
-
-<h1 align="center">Hi 👋, I'm Avinash Chavan</h1>
-<h3 align="center">🚀 DevOps Engineer | BSc Graduate | Cloud & Automation Enthusiast</h3>
+I'm Avinash Chavan !
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7AB0A&width=700&lines=Hello+World+%F0%9F%8C%8E;Welcome+to+my+profile+%F0%9F%99%8C;Happy+to+see+you+here+%F0%9F%98%8A;Have+a+great+day+%F0%9F%8C%9F)
 
 ---
 
-## 🌟 About Me
-
-- 🎓 Bachelor of Science (BSc) Graduate  
-- 💻 Passionate about **DevOps, Cloud, and Automation**
-- 🛠️ Strong foundation in **Linux & System Administration**
-- ☁️ Hands-on experience with **AWS Cloud Services**
-- 🔄 Learning and building projects in **CI/CD & Kubernetes**
-- 📈 Goal: Become a **Skilled DevOps Engineer**
+I'm a B.SC graduate and a passionate DevOps & Linux enthusiast.  
+I love exploring Cloud Computing, CI/CD, Automation, and Linux.  
 
 ---
 
-## 🚀 Tech Stack
+## 📫 Connect With Me
 
-### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
-![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
-![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
-![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
-
-### 🐳 Containers & Orchestration
-![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
-
-### 💻 Programming & Scripting
-![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
-![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
-
-### 🗄️ Databases
-![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
-
-### 🔧 Tools
-![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
-![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
-![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/public-profile/settings/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](avinashchavan1616@gmail.com)
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 About Me
+- Currently learning DevOps, Linux, AWS, and Terraform
+- Interested in automation, cloud solutions, and infrastructure management
+- Always eager to learn and contribute to open-source projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
-</p>
+---
+## 🛠️ Languages & Tools
+
+| Linux | Terraform | Jenkins | Kubernetes | Ansible | Ubuntu | Git | Docker | GitHub | VS Code | AWS |
+|------|-----------|---------|------------|---------|--------|-----|--------|--------|---------|-----|
+| <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40"/> | <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original.svg" width="40"/> |
+
 
 ---
 
-## 📌 Projects
+## 🌱 Contribution Graph
 
-- 🔹 CI/CD Pipeline using Jenkins & Docker  
-- 🔹 Kubernetes Deployment Project  
-- 🔹 AWS Infrastructure using Terraform  
+![GitHub Contribution Snake](https://github.com/avinashchavan1616-tech/avinashchavan1616-tech/edit/main/README.md)
 
----
-
-## 📫 Connect with Me
-
-- 📧 Email: avinashchavan1616@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
 
 ---
 
-⭐ *"Always learning, always building!"*
+## 📂 Projects / Repositories
+### 🔹 Myntra Clone
+- Frontend + Backend e-commerce clone  
+- Repository:  
+- Tech: HTML | CSS | JavaScript | React | Node.js
+
+### 🔹 Netflix Clone
+- Streaming platform clone  
+- Repository: [Netflix Clone](https://github.com/Mitali053/Netflix-Clone)  
+- Tech: HTML | CSS | JavaScript | React | Firebase
+
+### 🔹 ChatGPT Project
+- Simple ChatGPT integration project  
+- Repository: [ChatGPT](https://github.com/Mitali053/ChatGPT)  
+- Tech: Python | OpenAI API | Flask
+
+--- 
+
+## 📈 GitHub Stats
+![Mitali's GitHub Stats](https://github.com/avinashchavan1616-tech/avinashchavan1616-tech/edit/main/README.md)
+
+---
