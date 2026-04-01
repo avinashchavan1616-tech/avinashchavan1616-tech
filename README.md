@@ -1,5 +1,7 @@
+  
 
-<!-- Background GIF Banner -->
+
+<!-- 🔥 Background Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
 </p>
@@ -64,6 +66,26 @@
 
 ---
 
+## 📫 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINK">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="mailto:avinashchavan1616@gmail.com">
+    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+  </a>
+</p>
+
+---
+
+## ⚡ Fun Fact
+
+> I turn ☕ into automation scripts 😎
+
+---
+
+⭐ **Thanks for visiting my profile!**
 
 
 
