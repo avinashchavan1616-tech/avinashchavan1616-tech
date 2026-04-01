@@ -1,8 +1,6 @@
 I'm Avinash Chavan !
 
-<p align="center">
-  <img src="https://export-download.canva.com/_h9iY/DAHFn0_h9iY/12/0/0001-7240035167151274545.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20260331%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260331T225143Z&X-Amz-Expires=66236&X-Amz-Signature=231e618ae2fa0ca5fc07713c9ea4354d2ac13893076192fb6ec998e1490aee03&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27ok.png&response-expires=Wed%2C%2001%20Apr%202026%2017%3A15%3A39%20GMT" alt="My Image" width="1200">
-</p>
+<img src="https://export-download.canva.com/_h9iY/DAHFn0_h9iY/12/0/0001-7240035167151274545.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAQYCGKMUH5AO7UJ26%2F20260331%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260331T225143Z&X-Amz-Expires=66236&X-Amz-Signature=231e618ae2fa0ca5fc07713c9ea4354d2ac13893076192fb6ec998e1490aee03&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%2A%3DUTF-8%27%27ok.png&response-expires=Wed%2C%2001%20Apr%202026%2017%3A15%3A39%20GMT" alt="My Image" width="1200">
 
 
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=F7AB0A&width=700&lines=Hello+World+%F0%9F%8C%8E;Welcome+to+my+profile+%F0%9F%99%8C;Happy+to+see+you+here+%F0%9F%98%8A;Have+a+great+day+%F0%9F%8C%9F)
