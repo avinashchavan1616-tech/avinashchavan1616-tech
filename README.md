@@ -1,16 +1,21 @@
-
 # 👋 Hi, I'm Avinash Chavan
 
-🚀 **DevOps Engineer | AWS | Linux | Automation Enthusiast**
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Laptop Boy Coding"/>
+</p>
+
+---
+
+## 🚀 DevOps Engineer | AWS | Linux | Automation
 
 ---
 
 ## 🌟 About Me
-- 🔧 DevOps Engineer passionate about automation and cloud technologies  
-- ☁️ Currently learning and working on **AWS & DevOps tools**  
-- 🐧 Strong knowledge of **Linux & scripting**  
-- 📦 Experience with **Docker, Kubernetes, Terraform**  
-- 🌱 Always learning new technologies and improving skills  
+- 🔧 Passionate DevOps Engineer  
+- ☁️ Working with AWS & Cloud Technologies  
+- 🐧 Strong in Linux & scripting  
+- 📦 Tools: Docker, Kubernetes, Terraform  
+- 🌱 Always learning new skills  
 
 ---
 
@@ -25,31 +30,40 @@
 - Terraform  
 - Jenkins  
 
-### 💻 Programming & Scripting
+### 💻 Programming
 - Bash  
-- Python (basic)
-
-### 🐧 Operating System
-- Linux (Ubuntu, CentOS)
+- Python (Basic)
 
 ---
 
 ## 📂 Projects
-- 🔹 Infrastructure setup using Terraform  
-- 🔹 Docker containerization projects  
-- 🔹 Kubernetes deployment & services  
+- 🚀 Terraform Infrastructure Setup  
+- 🐳 Docker Container Projects  
+- ☸️ Kubernetes Deployment  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+</p>
 
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: *(Add your link here)*  
-- 📧 Email: *(Add your email here)*  
+- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
+- 📧 Email: your@email.com  
 
 ---
 
 ## ⚡ Fun Fact
-> I love automating everything and turning manual work into smart workflows 😎
+> I turn ☕ into automation scripts 😎  
 
 ---
 
-⭐ **Thanks for visiting my profile!**
+⭐ Thanks for visiting my profile!
+
+
+
+
