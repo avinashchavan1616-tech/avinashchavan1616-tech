@@ -56,6 +56,6 @@ I love exploring Cloud Computing, CI/CD, Automation, and Linux.
 --- 
 
 ## 📈 GitHub Stats
-![Mitali's GitHub Stats](https://github.com/avinashchavan1616-tech/avinashchavan1616-tech/edit/main/README.md)
+![Avinash's GitHub Stats](https://github.com/avinashchavan1616-tech/avinashchavan1616-tech/edit/main/README.md)
 
 ---
