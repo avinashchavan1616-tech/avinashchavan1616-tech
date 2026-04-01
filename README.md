@@ -1,21 +1,17 @@
-<!-- 🔥 Background Animation -->
+
+<!-- 🔥 Small Background Banner -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=150&section=header&text=Welcome%20to%20My%20Profile&fontSize=30&fontColor=ffffff" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Avinash Chavan</h1>
 <h3 align="center">🚀 DevOps Engineer | BSc Graduate | Cloud & Automation Enthusiast</h3>
 
-<!-- 👨‍💻 Laptop Boy -->
-<p align="center">
-  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="120" style="background-color:#0d1117; padding:10px; border-radius:15px;" />
-</p>
-
 ---
 
 ## 🌟 About Me
 
-- 🎓 Bachelor of Science (BSc Graduate)
+- 🎓 Bachelor of Science (BSc) Graduate  
 - 💻 Passionate about **DevOps, Cloud, and Automation**
 - 🛠️ Strong foundation in **Linux & System Administration**
 - ☁️ Hands-on experience with **AWS Cloud Services**
@@ -54,8 +50,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=avinashchavan1616-tech&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashchavan1616-tech&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
@@ -68,26 +64,11 @@
 
 ---
 
-## 📫 Connect With Me
+## 📫 Connect with Me
 
-<p align="center">
-  <a href="https://linkedin.com/in/avinashchavan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  
-  <a href="mailto:avinashchavan1616@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
-  </a>
-</p>
+- 📧 Email: avinashchavan1616@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME/
 
 ---
 
-## ⚡ Fun Fact
-
-> I turn ☕ into automation scripts 😎
-
----
-
-⭐ **Thanks for visiting my profile!**
-
-
+⭐ *"Always learning, always building!"*
