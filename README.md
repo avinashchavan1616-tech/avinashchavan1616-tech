@@ -10,7 +10,7 @@ I love exploring Cloud Computing, CI/CD, Automation, and Linux.
 
 ## 📫 Connect With Me
 
-- 📧 Email:   avinashchavan1616@gmail.com
+- 📧 Email:   avinashyuvrajchavan123@gmail.com/
 - 💼 LinkedIn:   https://www.linkedin.com/public-profile/settings/
 
 
