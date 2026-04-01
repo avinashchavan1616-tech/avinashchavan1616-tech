@@ -1,9 +1,3 @@
-  
-
-
-
-
-
 <!-- 🔥 Background Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
@@ -11,6 +5,11 @@
 
 <h1 align="center">Hi 👋, I'm Avinash Chavan</h1>
 <h3 align="center">🚀 DevOps Engineer | BSc Graduate | Cloud & Automation Enthusiast</h3>
+
+<!-- 👨‍💻 Laptop Boy -->
+<p align="center">
+  <img src="https://cdn-icons-png.flaticon.com/512/1995/1995574.png" width="120" style="background-color:#0d1117; padding:10px; border-radius:15px;" />
+</p>
 
 ---
 
@@ -55,8 +54,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashchavan1616-tech&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashchavan1616-tech&theme=tokyonight" />
 </p>
 
 ---
@@ -72,11 +71,11 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+  <a href="https://www.linkedin.com/in/YOUR_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Avinash%20Chavan-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:avinashchavan1616@gmail.com">
-    <img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-red?style=for-the-badge&logo=gmail"/>
   </a>
 </p>
 
@@ -85,6 +84,8 @@
 ## ⚡ Fun Fact
 
 > I turn ☕ into automation scripts 😎
- > make a laptop boy image in samll formate background  
+
+---
 
 ⭐ **Thanks for visiting my profile!**
+
