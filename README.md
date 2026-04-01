@@ -1,6 +1,9 @@
   
 
 
+
+
+
 <!-- 🔥 Background Animation -->
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
@@ -69,7 +72,7 @@
 ## 📫 Connect With Me
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="https://www.linkedin.com/in/YOUR_LINK" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
   </a>
   <a href="mailto:avinashchavan1616@gmail.com">
@@ -82,10 +85,6 @@
 ## ⚡ Fun Fact
 
 > I turn ☕ into automation scripts 😎
-
----
+ > make a laptop boy image in samll formate background  
 
 ⭐ **Thanks for visiting my profile!**
-
-
-
