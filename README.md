@@ -1,68 +1,71 @@
-# 👋 Hi, I'm Avinash Chavan
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Laptop Boy Coding"/>
-</p>
-
----
-
-## 🚀 DevOps Engineer | AWS | Linux | Automation
+<h1 align="center">Hi 👋, I'm Avinash chavan</h1>
+<h3 align="center">🚀 DevOps Engineer | BSc Graduate | Cloud & Automation Enthusiast</h3>
 
 ---
 
 ## 🌟 About Me
-- 🔧 Passionate DevOps Engineer  
-- ☁️ Working with AWS & Cloud Technologies  
-- 🐧 Strong in Linux & scripting  
-- 📦 Tools: Docker, Kubernetes, Terraform  
-- 🌱 Always learning new skills  
+
+- 🎓 bachleor of science ( graduate)
+- 💻 Passionate about **DevOps, Cloud, and Automation**
+- 🛠️ Strong foundation in **Linux & System Administration**
+- ☁️ Hands-on experience with **AWS Cloud Services**
+- 🔄 Learning and building projects in **CI/CD & Kubernetes**
+- 📈 Goal: Become a **Skilled DevOps Engineer**
 
 ---
 
-## 🛠️ Skills
+## 🚀 Tech Stack
 
-### ☁️ Cloud
-- AWS (EC2, S3, IAM, VPC)
+### ☁️ Cloud & DevOps
+![AWS](https://img.shields.io/badge/AWS-orange?style=for-the-badge&logo=amazonaws)
+![Terraform](https://img.shields.io/badge/Terraform-purple?style=for-the-badge&logo=terraform)
+![Ansible](https://img.shields.io/badge/Ansible-black?style=for-the-badge&logo=ansible)
+![Jenkins](https://img.shields.io/badge/Jenkins-red?style=for-the-badge&logo=jenkins)
 
-### 🔧 DevOps Tools
-- Docker  
-- Kubernetes  
-- Terraform  
-- Jenkins  
+### 🐳 Containers & Orchestration
+![Docker](https://img.shields.io/badge/Docker-blue?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-blue?style=for-the-badge&logo=kubernetes)
 
-### 💻 Programming
-- Bash  
-- Python (Basic)
+### 💻 Programming & Scripting
+![Bash](https://img.shields.io/badge/Bash-black?style=for-the-badge&logo=gnu-bash)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 
----
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-blue?style=for-the-badge&logo=mysql)
 
-## 📂 Projects
-- 🚀 Terraform Infrastructure Setup  
-- 🐳 Docker Container Projects  
-- ☸️ Kubernetes Deployment  
+### 🔧 Tools
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)
+![Nginx](https://img.shields.io/badge/Nginx-green?style=for-the-badge&logo=nginx)
+![Grafana](https://img.shields.io/badge/Grafana-orange?style=for-the-badge&logo=grafana)
 
 ---
 
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" />
 </p>
 
 ---
 
-## 📫 Connect With Me
-- 💼 LinkedIn: https://linkedin.com/in/YOUR_LINK  
-- 📧 Email: your@email.com  
+## 📌 Projects
+
+- 🔹 CI/CD Pipeline using Jenkins & Docker  
+- 🔹 Kubernetes Deployment Project  
+- 🔹 AWS Infrastructure using Terraform  
 
 ---
 
-## ⚡ Fun Fact
-> I turn ☕ into automation scripts 😎  
+## 📫 Connect with Me
+
+- 📧 Email: avinashchavan1616@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/public-profile/settings/  
 
 ---
 
-⭐ Thanks for visiting my profile!
+⭐ *"Always learning, always building!"*
 
 
 
