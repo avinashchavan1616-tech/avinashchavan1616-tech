@@ -1,11 +1,17 @@
-<h1 align="center">Hi 👋, I'm Avinash chavan</h1>
+
+<!-- Background GIF Banner -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+</p>
+
+<h1 align="center">Hi 👋, I'm Avinash Chavan</h1>
 <h3 align="center">🚀 DevOps Engineer | BSc Graduate | Cloud & Automation Enthusiast</h3>
 
 ---
 
 ## 🌟 About Me
 
-- 🎓 bachleor of science ( graduate)
+- 🎓 Bachelor of Science (BSc Graduate)
 - 💻 Passionate about **DevOps, Cloud, and Automation**
 - 🛠️ Strong foundation in **Linux & System Administration**
 - ☁️ Hands-on experience with **AWS Cloud Services**
@@ -57,15 +63,6 @@
 - 🔹 AWS Infrastructure using Terraform  
 
 ---
-
-## 📫 Connect with Me
-
-- 📧 Email: avinashchavan1616@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/public-profile/settings/  
-
----
-
-⭐ *"Always learning, always building!"*
 
 
 
